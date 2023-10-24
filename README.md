@@ -1,6 +1,7 @@
 ### Welcome to my github 👋
 
 I'm currently studying Data Analytics and preparing for Data Analyst!
+I am excited to solve problems with data:) 
 
 ⚒️ stacks
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> 
