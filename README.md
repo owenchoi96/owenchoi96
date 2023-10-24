@@ -14,3 +14,5 @@ You can check my writings from link below!
 👨‍💻 My github status
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=owenchoi96&show_icons=true&theme=radical)
+
+There are not many things to show you right now. But, I'll fill up my github repositories while pursuing fast growth! Thank you! 
