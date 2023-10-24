@@ -8,7 +8,9 @@ I'm currently studying Data Analytics and preparing for Data Analyst!
 
 👨‍⚖️ More about me
 You can check my writings from link below!
+
 <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white">
 
 👨‍💻 My github status
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=owenchoi96&show_icons=true&theme=radical)
