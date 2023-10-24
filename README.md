@@ -9,7 +9,7 @@ I'm currently studying Data Analytics and preparing for Data Analyst!
 👨‍⚖️ More about me
 You can check my writings from link below!
 
-<img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white">
+[<img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white">](https://velog.io/@owenchoi96)
 
 👨‍💻 My github status
 
